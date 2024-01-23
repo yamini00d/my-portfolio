@@ -16,7 +16,7 @@ body {
  }
 
 .topmenu {
-  color: lightblue;
+  color: white;
   margin: 10px;
   padding: 20px;
   font-size: 20px;
@@ -39,7 +39,7 @@ body {
   float: left;
   padding-left: 2cm;
   /* Add the styles here */
-  color: lightblue;
+  color: white;
   font-size: 30px;
 }
 
